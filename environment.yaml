@@ -1,0 +1,12 @@
+name: insar-python
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - matplotlib
+  - python-graphviz
+  - pip
+  - pip:
+    - sarxarray
+    - stmtools
