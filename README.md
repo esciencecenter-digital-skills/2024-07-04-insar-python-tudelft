@@ -1,7 +1,7 @@
-# 2024-07-04-insar-python-tudelft
-Software Workshop of Processing Radar Interferometry Data with Novel Python Libraries
 
-## Setup for the workshop
+# Setup instructions
+
+This is the setup instructions for the workshop: Processing Radar Interferometry Data with Novel Python Libraries on 4th July 2024 at TU Delft.
 
 The setup of this workshop is tested on Unix-like system (Linux, macOS, or WSL on Windows). If you use Windows, we recommend you use Anaconda to continue the setup.
 
